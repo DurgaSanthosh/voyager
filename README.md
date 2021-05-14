@@ -1,2 +1,2 @@
-# voyager
-https://voyager153.github.io/voyager/
+# Voyager
+https://DurgaSanthosh.github.io/voyager/
